@@ -10,6 +10,6 @@ wheels/
 .venv
 
 # Environment variable files
-.env
+.env*
 
 Vector/
